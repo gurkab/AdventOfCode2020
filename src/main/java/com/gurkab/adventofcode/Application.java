@@ -13,6 +13,7 @@ public class Application {
         System.out.println(two.solvePartTwo());
         Three three = new Three();
         System.out.println(three.solvePartOne());
+        System.out.println(three.solvePartTwo());
     }
 
 }
