@@ -14,6 +14,8 @@ public class Application {
         Three three = new Three();
         System.out.println(three.solvePartOne());
         System.out.println(three.solvePartTwo());
+        Four four = new Four();
+        System.out.println(four.solvePartOne());
     }
 
 }
